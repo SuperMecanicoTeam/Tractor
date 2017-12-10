@@ -6,3 +6,11 @@
 https://www.youtube.com/watch?v=9cYbrwixFhk&t=15s
 
 https://www.youtube.com/watch?v=PdgAA7Ic6WE
+
+# Hardware
+
+* ## Electrónica
+  * Arduino Mega
+  * Sensores de ultrasonidos
+  * Sensor de linea i2c
+  
