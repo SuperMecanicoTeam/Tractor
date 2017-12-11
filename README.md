@@ -12,5 +12,5 @@ https://www.youtube.com/watch?v=PdgAA7Ic6WE
 * ## Electrónica
   * Arduino Mega
   * Sensores de ultrasonidos
-  * Sensor de linea i2c
+  * Sensor de linea SunFounder i2c
   
