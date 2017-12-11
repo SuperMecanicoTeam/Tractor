@@ -13,4 +13,8 @@ https://www.youtube.com/watch?v=PdgAA7Ic6WE
   * Arduino Mega
   * Sensores de ultrasonidos
   * Sensor de linea SunFounder i2c
+ 
+* ## Mecánica
+ * Servos para regular la altura
+ * Chasis pololu
   
