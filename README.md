@@ -13,8 +13,11 @@ https://www.youtube.com/watch?v=PdgAA7Ic6WE
   * Arduino Mega
   * Sensores de ultrasonidos
   * Sensor de linea SunFounder i2c
+  * nrf24l01
  
 * ## Mecánica
- * Servos para regular la altura
- * Chasis pololu
+  * Servos para regular la altura
+  * Chasis pololu
   
+* ## Mando
+  * nrf24l01
